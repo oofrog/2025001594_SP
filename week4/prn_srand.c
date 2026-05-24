@@ -14,7 +14,7 @@ int main(void){
         if(i%10==0){
             putchar('\n');
         }
-        printf("%3d",rand()%99);
+        printf("%3d",rand()%100);
     }
     printf("\n\n");
 
